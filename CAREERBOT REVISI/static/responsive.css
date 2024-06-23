@@ -1,0 +1,36 @@
+@media screen and (min-width: 758px){
+    html{
+        font-size: 75%;
+    }
+    .team-member{
+        padding: 5rem 1rem;
+    }
+    .member{
+        flex: 0 0 28%;
+        max-width: 28%;
+        padding: 0 1rem;
+    }
+}
+@media screen and (max-width :576px){
+    html{
+        font-size: 62.5%;
+    }
+    .our-team{
+        padding: 1rem 7rem;
+    }
+    .hero-tagline h1{
+        line-height: 58px;
+    }
+    .img-hero{
+        width: 75%;
+        height: auto;
+    }
+
+      
+}
+@media screen and (max-width :350px) {
+    html{
+        font-size: 55%;
+    }
+
+}
